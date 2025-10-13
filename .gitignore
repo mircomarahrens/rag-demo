@@ -1,5 +1,5 @@
 .ruff_cache
-resource/model/*
+resources/model/*
 notebook/*.html
 
 # Byte-compiled / optimized / DLL files

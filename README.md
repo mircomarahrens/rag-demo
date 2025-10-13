@@ -39,10 +39,10 @@ NVIDIA GeForce RTX 3060, 12288 MiB
 
 ## Setup
 
-Using [poetry](https://python-poetry.org/)
+Using [uv](https://docs.astral.sh/uv/)
 
 ```bash
-poetry install
+uv sync --no-install-project
 ```
 
 or using the provided `requirements.txt` with [pip](https://pip.pypa.io/en/stable/)
